@@ -1,4 +1,4 @@
-LeatherDraft - лицензия
+KozhaBench - лицензия
 Copyright (c) 2026 DoctorAranea
 
 1. Программа бесплатна. Её можно устанавливать и использовать на любом числе
@@ -27,7 +27,7 @@ Copyright (c) 2026 DoctorAranea
 
 ------------------------------------------------------------------------------
 
-LeatherDraft - License
+KozhaBench - License
 Copyright (c) 2026 DoctorAranea
 
 1. The program is free. You may install and use it on any number of computers,

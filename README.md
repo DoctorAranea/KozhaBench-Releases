@@ -1,6 +1,6 @@
-![LeatherDraft](images/splash.png)
+![KozhaBench](images/splash.png)
 
-# LeatherDraft
+# KozhaBench
 
 **Программа для выкроек изделий из кожи.** Чертите детали, ставьте швы с проколами под свой пробойник, печатайте выкройку
 в натуральную величину или отдавайте на лазер и режущий плоттер.
@@ -9,9 +9,9 @@
 
 ## Скачать
 
-**[Скачать установщик для Windows](https://github.com/DoctorAranea/LeatherDraft-Releases/releases/latest/download/LeatherDraft-win-Setup.exe)**
+**[Скачать установщик для Windows](https://github.com/DoctorAranea/KozhaBench-Releases/releases/latest/download/KozhaBench-win-Setup.exe)**
 
-Все версии и что в них нового - на странице [выпусков](https://github.com/DoctorAranea/LeatherDraft-Releases/releases).
+Все версии и что в них нового - на странице [выпусков](https://github.com/DoctorAranea/KozhaBench-Releases/releases).
 
 Программа бесплатная, в том числе для работы на продажу. Выкройки, сделанные в ней, принадлежат вам. Условия - в файле
 [LICENSE.txt](LICENSE.txt).
@@ -64,35 +64,35 @@
 **Обновления** приходят сами: раз в день программа проверяет, не вышла ли новая версия, скачивает её и ставит, когда вы
 закроете программу. Отключить это можно в настройках, раздел "Обновления".
 
-**Удалить** программу можно как любую другую: "Параметры Windows" - "Приложения" - LeatherDraft. Ваши чертежи при этом
+**Удалить** программу можно как любую другую: "Параметры Windows" - "Приложения" - KozhaBench. Ваши чертежи при этом
 остаются на месте.
 
 ## Нашли ошибку или есть идея
 
-Напишите в раздел [Issues](https://github.com/DoctorAranea/LeatherDraft-Releases/issues). Чтобы ошибку было проще найти,
+Напишите в раздел [Issues](https://github.com/DoctorAranea/KozhaBench-Releases/issues). Чтобы ошибку было проще найти,
 укажите:
 
-- версию программы - она в заголовке окна, например "LeatherDraft 0.9.1";
+- версию программы - она в заголовке окна, например "KozhaBench 0.9.6";
 - что вы делали и что пошло не так;
-- если программа сообщила об ошибке - приложите журнал `%LocalAppData%\LeatherDraft\logs\errors.log`;
-- если ошибка связана с чертежом - приложите файл .ldraft.
+- если программа сообщила об ошибке - приложите журнал `%LocalAppData%\KozhaBench\logs\errors.log`;
+- если ошибка связана с чертежом - приложите файл чертежа (.kbench или .ldraft).
 
 ---
 
 <a id="english"></a>
 
-# LeatherDraft
+# KozhaBench
 
 **A pattern maker for leather goods.** Draw pieces, add seams with holes for your pricking iron, print the pattern at
 full size or send it to a laser cutter or a cutting plotter.
 
-[На русском - выше](#leatherdraft)
+[На русском - выше](#kozhabench)
 
 ## Download
 
-**[Download the installer for Windows](https://github.com/DoctorAranea/LeatherDraft-Releases/releases/latest/download/LeatherDraft-win-Setup.exe)**
+**[Download the installer for Windows](https://github.com/DoctorAranea/KozhaBench-Releases/releases/latest/download/KozhaBench-win-Setup.exe)**
 
-All versions and what is new in them are on the [releases](https://github.com/DoctorAranea/LeatherDraft-Releases/releases)
+All versions and what is new in them are on the [releases](https://github.com/DoctorAranea/KozhaBench-Releases/releases)
 page.
 
 The program is free, including for work you sell. The patterns you make with it belong to you. The terms are in
@@ -146,14 +146,14 @@ Printing the pattern on A4 sheets with a control square:
 **Updates** arrive on their own: once a day the program checks for a new version, downloads it and installs it when you
 close the program. You can turn this off in the settings, in the "Updates" section.
 
-**Uninstall** the program like any other: Windows "Settings" - "Apps" - LeatherDraft. Your drawings stay where they are.
+**Uninstall** the program like any other: Windows "Settings" - "Apps" - KozhaBench. Your drawings stay where they are.
 
 ## Found a bug or have an idea
 
-Write in [Issues](https://github.com/DoctorAranea/LeatherDraft-Releases/issues). To make the bug easier to find,
+Write in [Issues](https://github.com/DoctorAranea/KozhaBench-Releases/issues). To make the bug easier to find,
 include:
 
-- the program version - it is in the window title, for example "LeatherDraft 0.9.1";
+- the program version - it is in the window title, for example "KozhaBench 0.9.6";
 - what you were doing and what went wrong;
-- if the program reported an error - attach the log `%LocalAppData%\LeatherDraft\logs\errors.log`;
-- if the bug is related to a drawing - attach the .ldraft file.
+- if the program reported an error - attach the log `%LocalAppData%\KozhaBench\logs\errors.log`;
+- if the bug is related to a drawing - attach the drawing file (.kbench or .ldraft).
