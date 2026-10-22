@@ -13,7 +13,8 @@
 
 Все версии и что в них нового - на странице [выпусков](https://github.com/DoctorAranea/KozhaBench-Releases/releases).
 
-Программа бесплатная, в том числе для работы на продажу. Выкройки, сделанные в ней, принадлежат вам. Условия - в файле
+Программа бесплатная, в том числе для работы на продажу. Выкройки, сделанные в ней, принадлежат вам. Платный только
+расчёт стоимости изделия в [KozhaBench Pro](https://kozhabench.com/#pro). Условия использования в файле
 [LICENSE.txt](LICENSE.txt).
 
 ## Что умеет
@@ -25,7 +26,10 @@
 - Фурнитура: кнопки, хольнитены, люверсы, прорези; половинки кнопки связываются в пару
 - Зеркальные пары деталей: правка одной повторяется на другой
 - Печать в натуральную величину на листах A4 и других, с нахлёстом и контрольным квадратом
-- Экспорт в PDF, SVG и DXF для лазера и плоттера, открытие чертежей DXF, DWG и SVG
+- Экспорт в PDF, SVG и DXF для лазера и плоттера
+- Надписи любым шрифтом Windows, в файлах для станка текстом или контурами букв
+- Импорт DXF, DWG и SVG: тексты становятся надписями, ломаные превращаются в окружности и дуги
+- Стоимость изделия по выкройке в KozhaBench Pro: материалы, фурнитура, работа мастера и расходы
 - Интерфейс на русском и английском
 
 ## Как это выглядит
@@ -95,8 +99,8 @@ full size or send it to a laser cutter or a cutting plotter.
 All versions and what is new in them are on the [releases](https://github.com/DoctorAranea/KozhaBench-Releases/releases)
 page.
 
-The program is free, including for work you sell. The patterns you make with it belong to you. The terms are in
-[LICENSE.txt](LICENSE.txt).
+The program is free, including for work you sell. The patterns you make with it belong to you. Only the product cost
+estimate in [KozhaBench Pro](https://kozhabench.com/en/#pro) is paid. The terms of use are in [LICENSE.txt](LICENSE.txt).
 
 ## Features
 
@@ -107,7 +111,10 @@ The program is free, including for work you sell. The patterns you make with it 
 - Hardware: snaps, rivets, eyelets, slots; the two halves of a snap are linked into a pair
 - Mirror pairs of pieces: an edit to one is repeated on the other
 - Full-size printing on A4 and other sheets, with overlap and a control square
-- Export to PDF, SVG and DXF for lasers and plotters, opening DXF, DWG and SVG drawings
+- Export to PDF, SVG and DXF for lasers and plotters
+- Text labels in any Windows font, written to machine files as text or as letter outlines
+- DXF, DWG and SVG import: texts become labels, polylines turn into circles and arcs
+- Product cost from the pattern in KozhaBench Pro: materials, hardware, the maker's work and costs
 - Interface in Russian and English
 
 ## What it looks like
